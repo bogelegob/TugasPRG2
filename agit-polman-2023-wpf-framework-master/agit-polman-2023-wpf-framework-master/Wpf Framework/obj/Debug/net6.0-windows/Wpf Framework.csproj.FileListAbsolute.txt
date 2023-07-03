@@ -1,0 +1,21 @@
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\bin\Debug\net6.0-windows\Wpf Framework.exe
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\bin\Debug\net6.0-windows\Wpf Framework.deps.json
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\bin\Debug\net6.0-windows\Wpf Framework.runtimeconfig.json
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\bin\Debug\net6.0-windows\Wpf Framework.dll
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\bin\Debug\net6.0-windows\Wpf Framework.pdb
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\obj\Debug\net6.0-windows\Wpf Framework.csproj.AssemblyReference.cache
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\obj\Debug\net6.0-windows\Wpf Framework_MarkupCompile.cache
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\obj\Debug\net6.0-windows\Wpf Framework_MarkupCompile.lref
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\obj\Debug\net6.0-windows\Wpf Framework.g.resources
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\obj\Debug\net6.0-windows\Wpf Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\obj\Debug\net6.0-windows\Wpf Framework.AssemblyInfoInputs.cache
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\obj\Debug\net6.0-windows\Wpf Framework.AssemblyInfo.cs
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\obj\Debug\net6.0-windows\Wpf Framework.csproj.CoreCompileInputs.cache
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\obj\Debug\net6.0-windows\Wpf Framework.dll
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\obj\Debug\net6.0-windows\refint\Wpf Framework.dll
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\obj\Debug\net6.0-windows\Wpf Framework.pdb
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\obj\Debug\net6.0-windows\Wpf Framework.genruntimeconfig.cache
+C:\Users\RASYIDIN AZIZ\Downloads\agit-polman-2023-wpf-framework-master\agit-polman-2023-wpf-framework-master\Wpf Framework\obj\Debug\net6.0-windows\ref\Wpf Framework.dll
